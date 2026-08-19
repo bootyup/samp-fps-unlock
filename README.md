@@ -1,5 +1,3 @@
-src
-
 ```
 void CPlugin::OnSampInitialize() 
 {
