@@ -1,3 +1,5 @@
+r1, r2, r3, r4, r5, 03dl
+
 ```
 void CPlugin::OnSampInitialize() 
 {
